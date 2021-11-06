@@ -1,7 +1,6 @@
 import pyautogui
 import keyboard
 from screeninfo import get_monitors
-import matplotlib.pyplot as plt
 import tkinter as tk
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
